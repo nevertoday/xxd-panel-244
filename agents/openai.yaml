@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 244"
+  short_description: "停笔笔记：上半保留原照，下半用断墨线和薄水彩把灵魂收进大量白纸"
+  default_prompt: "Use $xxd-panel-244 to transform my photograph following the complete canonical source brief."
