@@ -60,7 +60,7 @@ Take two to four colors from the source. Keep them light, thin and few, and keep
 Install from GitHub:
 
 ```bash
-npx skills add https://github.com/nevertoday/xxd-panel-244 --skill xxd-panel-244
+npx skills add https://github.com/xiaoxiaodong-ai/xxd-panel-244 --skill xxd-panel-244
 ```
 
 Restart the agent session after installation, then invoke `$xxd-panel-244`. Add `--global --agent codex --yes` when a user-level Codex installation is wanted.
