@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 244｜Pen-Lift Notebook: redraws the subject of a photo small, as if a skilled illustrator doodled a favourite character in a private notebook — only silhouette, personality and attitude, in bold but broken ink outlines left open at the edges, a few thin washes of two to four watercolours taken from the photo, dry-brush and faint water marks, and mostly untouched white paper, with small light text such as a title, number or note in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-244 or asks for a loose, unfinished ink-and-watercolour notebook sketch with lots of white space from a photo.",
+  "short_description": "停笔笔记：把照片收成私人笔记本里随手的一笔，小主体、断续墨线、薄水彩、大量白纸",
+  "zh-CN": {
+    "name": "停笔笔记",
+    "tagline": "把照片收成私人笔记本里随手的一笔：小小的主体、断续墨线、几处薄水彩。",
+    "look": "主体被画得很小，像插画师在自己的笔记本里随手画一个偏爱的角色：只抓剪影、性格和神态，用大胆但断开的墨线勾出来，边缘可以不闭合，有的地方干脆没画完。颜色从照片里取两到四种，用薄薄的水彩点在几处，不铺满。画面大部分是没碰过的白纸，带一点纸纹、干刷痕和淡淡水痕。文字小而轻，可以是一个标题、编号或一句注释，落在留白的边角。",
+    "traits": ["断续墨线", "薄水彩", "大量白纸", "小尺度", "俏皮克制", "私人笔记"],
+    "good": [
+      "有性格或神态的单个主体：一只打哈欠的猫、一个回头的人、一只站着的鸟",
+      "形状好认的小建筑或器物：一座灯塔、一把茶壶、一辆旧自行车",
+      "想放进手帐、私人笔记或独立出版物的日常照片"
+    ],
+    "poor": [
+      "想要画满、细节完整的插画，这里大部分是白纸",
+      "主体很小又很杂的大场景或多人合影",
+      "想要鲜艳荧光、光滑数字感或醒目商业标题的需求"
+    ]
+  },
+  "en": {
+    "name": "Pen-Lift Notebook",
+    "tagline": "Turns your photo into a quick notebook sketch: a small subject, broken ink, a few thin watercolour washes.",
+    "look": "The subject is drawn small, the way an illustrator might doodle a favourite character in their own notebook: only the silhouette, personality and attitude, caught in bold but broken ink outlines whose edges may stay open, with some parts simply left unfinished. Two to four colours from the photo go on as thin watercolour in a few places, never filling the shapes. Most of the image is untouched white paper with a little texture, dry-brush strokes and faint water marks. Text is small and light, a title, number or short note sitting in a corner of the white space.",
+    "traits": ["Broken ink line", "Thin watercolour", "Lots of white paper", "Small scale", "Playful restraint", "Private notebook"],
+    "good": [
+      "A single subject with character or attitude: a yawning cat, a person looking back, a standing bird",
+      "Small buildings or objects with a recognisable shape: a lighthouse, a teapot, an old bicycle",
+      "Everyday photos you want in a journal, private notebook or small-press publication"
+    ],
+    "poor": [
+      "Wanting a fully worked, detailed illustration; most of this is white paper",
+      "Wide scenes with many small, mixed elements, or group photos",
+      "Requests for bright neon, a smooth digital finish or a bold commercial headline"
+    ]
+  },
+  "ja": {
+    "name": "筆を止めたノート",
+    "tagline": "写真を、個人のノートにさっと描いた一筆にします。小さな主役、途切れる墨線、薄い水彩が少し。",
+    "look": "主役は小さく描かれ、イラストレーターが自分のノートにお気に入りのキャラクターをさっと描いたような姿になります。シルエットと性格、表情だけをとらえ、大胆だけれど途切れる墨線で描きます。輪郭は閉じなくてもよく、描きかけのまま残る部分もあります。色は写真から二〜四色を選び、薄い水彩で数か所に置くだけで塗りつぶしません。画面の大半は手つかずの白い紙で、紙の目やドライブラシ、うっすらとした水の跡が残ります。文字は小さく軽く、タイトル、番号、短い注記を余白の隅に置きます。",
+    "traits": ["途切れる墨線", "薄い水彩", "たっぷりの白い紙", "小さなスケール", "遊び心と抑制", "個人のノート"],
+    "good": [
+      "性格や表情のある一つの主役：あくびをする猫、振り返る人、立っている鳥",
+      "形のわかりやすい小さな建物や道具：灯台、急須、古い自転車",
+      "手帳や個人のノート、小さな出版物に入れたい日常写真"
+    ],
+    "poor": [
+      "細部まで描き込んだ完成度の高いイラストを求める場合（大半は白い紙です）",
+      "小さく雑多な要素が多い広い場面や集合写真",
+      "鮮やかな蛍光色、なめらかなデジタル感、目立つ商業タイトルを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "멈춘 펜 노트",
+    "tagline": "사진을 개인 노트에 무심히 그은 한 획으로 바꿉니다. 작은 주인공, 끊기는 먹선, 얇은 수채 몇 군데.",
+    "look": "주인공은 작게, 일러스트레이터가 자기 노트에 좋아하는 캐릭터를 쓱 그린 듯이 그려집니다. 실루엣과 성격, 표정만 잡아 대담하지만 끊어지는 먹선으로 그리고, 윤곽은 닫히지 않아도 되며 어떤 부분은 아예 그리다 만 채 남습니다. 색은 사진에서 두세 가지, 많으면 네 가지를 골라 얇은 수채로 몇 군데만 얹고 채우지 않습니다. 화면 대부분은 손대지 않은 흰 종이로, 종이 결과 마른 붓 자국, 옅은 물 자국이 조금 남습니다. 글씨는 작고 가볍게, 제목이나 번호, 짧은 메모가 여백 구석에 놓입니다.",
+    "traits": ["끊기는 먹선", "얇은 수채", "넓은 흰 종이", "작은 크기", "장난기와 절제", "개인 노트"],
+    "good": [
+      "성격이나 표정이 있는 주인공 하나: 하품하는 고양이, 뒤돌아보는 사람, 서 있는 새",
+      "모양이 잘 알아보이는 작은 건물이나 물건: 등대, 찻주전자, 낡은 자전거",
+      "다이어리, 개인 노트, 독립 출판물에 넣고 싶은 일상 사진"
+    ],
+    "poor": [
+      "꽉 채운 세밀한 일러스트를 원하는 경우(대부분이 흰 종이입니다)",
+      "작고 잡다한 요소가 많은 넓은 장면이나 단체 사진",
+      "선명한 형광색, 매끈한 디지털 느낌, 눈에 띄는 상업용 제목을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دفتر القلم المتوقف",
+    "tagline": "يحوّل صورتك إلى خطّ سريع في دفتر خاص: عنصر صغير وحبر متقطع ولمسات قليلة من ألوان مائية رقيقة.",
+    "look": "يُرسم العنصر صغيراً، كما يخربش رسّام شخصيته المفضلة في دفتره الخاص: الظلّ العام والطبع والهيئة فقط، بخطوط حبر جريئة لكنها متقطعة قد تبقى أطرافها مفتوحة، وبعض الأجزاء يُترك ببساطة دون إكمال. تُؤخذ من الصورة لونان إلى أربعة ألوان وتوضع كألوان مائية رقيقة في مواضع قليلة دون ملء الأشكال. معظم الصورة ورق أبيض لم يُمسّ، فيه شيء من ملمس الورق وضربات الفرشاة الجافة وآثار ماء خفيفة. النص صغير وخفيف: عنوان أو رقم أو ملاحظة قصيرة في زاوية من الفراغ.",
+    "traits": ["حبر متقطع", "ألوان مائية رقيقة", "ورق أبيض واسع", "حجم صغير", "مرح متحفّظ", "دفتر خاص"],
+    "good": [
+      "عنصر واحد له طبع أو هيئة: قطة تتثاءب، شخص يلتفت، طائر واقف",
+      "مبانٍ صغيرة أو أدوات يسهل تمييز شكلها: منارة، إبريق شاي، دراجة قديمة",
+      "صور يومية تريدها في يومياتك أو دفترك الخاص أو مطبوعة مستقلة صغيرة"
+    ],
+    "poor": [
+      "الرغبة في رسم مكتمل كثير التفاصيل؛ فمعظم الصورة ورق أبيض",
+      "مشاهد واسعة فيها عناصر صغيرة كثيرة ومتنوعة، أو صور جماعية",
+      "طلب ألوان فسفورية زاهية أو مظهر رقمي أملس أو عنوان تجاري بارز"
+    ]
+  }
+}

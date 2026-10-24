@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-244
-description: "Create XXD Panel 244 raster artwork: a faithful photograph paired with a small private-notebook character study of broken ink contours, thin restrained watercolor, a little mischief and a great deal of untouched white paper. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-244 or asks for this 停笔笔记 style."
+description: "XXD Panel 244｜Pen-Lift Notebook: redraws the subject of a photo small, as if a skilled illustrator doodled a favourite character in a private notebook — only silhouette, personality and attitude, in bold but broken ink outlines left open at the edges, a few thin washes of two to four watercolours taken from the photo, dry-brush and faint water marks, and mostly untouched white paper, with small light text such as a title, number or note in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-244 or asks for a loose, unfinished ink-and-watercolour notebook sketch with lots of white space from a photo."
 ---
 
 # XXD Panel 244
